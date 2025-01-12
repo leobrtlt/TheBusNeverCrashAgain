@@ -1,0 +1,12 @@
+{
+  "name": "tbnca",
+  "version": "1.0.0",
+  "description": "The Bus Never Crash Again",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run dev",
+    "start": "node app.js"
+  },
+  "author": "leobrtlt",
+  "license": "ISC"
+}
